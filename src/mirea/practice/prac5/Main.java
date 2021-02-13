@@ -1,4 +1,4 @@
-package mirea.practice.prac4;
+package mirea.practice.prac5;
 
 public class Main {
 
